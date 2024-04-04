@@ -7,7 +7,7 @@
 ## 文学类
 
 * [红高粱](wen-xue-lei/hong-gao-liang.md)
-* [平原上的摩西](<README (1).md>)
+* [平原上的摩西](<wen-xue-lei/ping-yuan-shang-de-mo-xi.md>)
 * [无处告别](wen-xue-lei/wu-chu-gao-bie.md)
 * [夜航·人类的大地](wen-xue-lei/ye-hang-ren-lei-de-da-di.md)
 
